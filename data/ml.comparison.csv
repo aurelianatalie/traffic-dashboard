@@ -1,0 +1,5 @@
+model,framework,accuracy,weighted_precision,weighted_recall,weighted_f1,auc_roc,anomaly_recall
+Logistic Regression,Spark MLlib,0.92,0.8464,0.92,0.8817,0.4999,0
+Random Forest,Spark MLlib,0.92,0.8464,0.92,0.8817,0.5026,0
+Logistic Regression,Scikit-learn,0.9163,0.8397,0.9163,0.8763,0.5089,0
+Random Forest,Scikit-learn,0.9163,0.8397,0.9163,0.8763,0.5045,0
