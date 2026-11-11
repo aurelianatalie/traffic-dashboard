@@ -1,0 +1,13 @@
+metric,value,model
+Weighted Precision,0.8463845967581584,Logistic Regression
+Weighted F1-score,0.8816544657123996,Logistic Regression
+Weighted Recall,0.9199916286348253,Logistic Regression
+Accuracy,0.9199916286348253,Logistic Regression
+AUC-ROC,0.4998576803716481,Logistic Regression
+Prediction Time (seconds),0.9620170593261719,Random Forest
+Training Time (seconds),172.69421291351318,Random Forest
+Weighted Precision,0.8463845967581584,Random Forest
+Weighted F1-score,0.8816544657123996,Random Forest
+Weighted Recall,0.9199916286348253,Random Forest
+Accuracy,0.9199916286348253,Random Forest
+AUC-ROC,0.5026109150323023,Random Forest
